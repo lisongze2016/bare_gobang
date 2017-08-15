@@ -1,0 +1,29 @@
+﻿烧写程序：
+1.[root@localhost Project_007]# cd bare_gobang_v1.8.4/target/
+
+
+2.[root@localhost target]# ./sd_fusing.sh /dev/sdb
+
+
+
+测试:
+
+	开机   
+
+		
+
+字符界面：三指以上触摸LCD 进入
+			
+命令：	ls   
+				
+	led
+				
+	buzzer
+				
+	reset  重启
+				
+	quit   退出字符界面，启动图形界面
+
+
+		
+图形界面：正常启动进入
